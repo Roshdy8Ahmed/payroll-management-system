@@ -8,8 +8,8 @@ A modular Python console application that simulates a corporate HR and payroll b
 ## Installation
 1. Make sure Python 3 is installed on your machine.
 2. Clone this repository:
-3. 
-4. Run the program:
+ https://github.com/Roshdy8Ahmed/payroll-management-system.git
+3. Run the program:
 ```
    python main.py
 ```
